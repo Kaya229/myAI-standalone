@@ -1,4 +1,4 @@
-import { Stock, Takachika } from "@/configuration/identity";
+import { Takachika, AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
 export const CHAT_HEADER: string = `Takachika stock finder`;
 export const MESSAGE_PLACEHOLDER: string = `[MESSAGE PLACEHOLDER]`;
